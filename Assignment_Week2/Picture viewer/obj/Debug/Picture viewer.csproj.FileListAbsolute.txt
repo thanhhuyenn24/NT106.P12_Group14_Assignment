@@ -1,0 +1,10 @@
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\bin\Debug\Picture viewer.exe.config
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\bin\Debug\Picture viewer.exe
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\bin\Debug\Picture viewer.pdb
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture viewer.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture_viewer.Form1.resources
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture_viewer.Properties.Resources.resources
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture viewer.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture viewer.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture viewer.exe
+C:\Users\nguye\source\repos\Assignment_Week2\Picture viewer\obj\Debug\Picture viewer.pdb
