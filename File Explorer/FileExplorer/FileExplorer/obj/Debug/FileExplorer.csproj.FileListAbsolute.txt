@@ -1,0 +1,10 @@
+D:\File Explorer\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+D:\File Explorer\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+D:\File Explorer\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+D:\File Explorer\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
