@@ -1,4 +1,4 @@
-# NT106.P12_Group14_Assignment
+# NT106.P12_Group14_Project
 
 ## [Repository Đồ Án](https://github.com/thanhhuyenn24/NT106.P12_Group14)
 
