@@ -1,6 +1,6 @@
 # NT106.P12_Group14_Project
 
-## [Repository Đồ Án](https://github.com/thanhhuyenn24/NT106.P12_Group14)
+## [Repository Đồ Án](https://github.com/thanhhuyenn24/NT104.P12_Group14-Project)
 
 ## Giới thiệu
 
